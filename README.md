@@ -27,7 +27,7 @@ This ensures consistent deployments and eliminates manual processes.
 
 •	GitHub repository with Dockerized application code
 
-Infrastructure Setup Instructions
+## Infrastructure Setup Instructions
 
 Clone the Repository:
 
