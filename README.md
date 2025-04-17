@@ -17,7 +17,7 @@
 5.	Notifications are sent via slack at the end of the build process
 This ensures consistent deployments and eliminates manual processes.
 
-Prerequisites
+## Prerequisites
 
 •	AWS account and AWS cli
 
