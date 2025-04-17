@@ -1,9 +1,8 @@
-# Final-Project
 # DEPI DevOps Final Project
 
-Automated Deployment Pipeline with Jenkins and Docker
+##Automated Deployment Pipeline with Jenkins and Docker
 
-Project Overview
+###Project Overview
 
 This project aims to automate the deployment of a Dockerized Word Press application on an AWS EC2 instance using Jenkins, Ansible, Terraform and Docker. It follows these steps:
 
