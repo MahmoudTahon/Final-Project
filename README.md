@@ -1,5 +1,6 @@
 # Final-Project
-**DEPI DevOps Final Project**
+***DEPI DevOps Final Project***
+
 Automated Deployment Pipeline with Jenkins and Docker
 
 Project Overview
